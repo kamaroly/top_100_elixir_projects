@@ -5,7 +5,7 @@ require 'json'
 require 'net/http'
 
 # Remote URL to parse
-url = 'https://api.github.com/search/repositories?q=language:php&stars:%3E0&sort=stars&per_page=100'
+url = 'https://api.github.com/search/repositories?q=language:elixir&stars:%3E0&sort=stars&per_page=100'
 uri = URI(url)
 response = Net::HTTP.get(uri)
 
