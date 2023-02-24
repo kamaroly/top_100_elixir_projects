@@ -1,6 +1,6 @@
-# Top 100 PHP projects on Github
+# Top 100 Elixir projects on Github
 
-This is an automated list of the PHP projects here on Github with the most stars
+This is an automated list of the Elixir projects here on Github with the most stars
 
 | # | Repository | Description | Stars | Forks |
 |---|------------|-------------|-------|-------|
