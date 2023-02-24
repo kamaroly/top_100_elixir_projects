@@ -1,112 +1,112 @@
-# Top 100 Elixir projects on Github
+# Top 100 PHP projects on Github
 
-This is an automated list of the Elixir projects here on Github with the most stars
+This is an automated list of the PHP projects here on Github with the most stars
 
 | # | Repository | Description | Stars | Forks |
 |---|------------|-------------|-------|-------|
-| 001 | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 44984 | 22341 |
-| 002 | [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | 31057 | 8165 |
-| 003 | [laravel/framework](https://github.com/laravel/framework) | The Laravel Framework. | 28983 | 9894 |
-| 004 | [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | 28038 | 8995 |
-| 005 | [composer/composer](https://github.com/composer/composer) | Dependency Manager for PHP | 27374 | 6525 |
-| 006 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | Faker is a PHP library that generates fake data for you | 26694 | 3466 |
-| 007 | [guzzle/guzzle](https://github.com/guzzle/guzzle) | Guzzle, an extensible PHP HTTP client | 22368 | 2366 |
-| 008 | [nextcloud/server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | 21598 | 3398 |
-| 009 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | Sends your logs to files, sockets, inboxes, databases and various web services | 20180 | 1847 |
-| 010 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | The classic email sending library for PHP | 19209 | 9575 |
-| 011 | [monicahq/monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. | 18728 | 1849 |
-| 012 | [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | Open Source PHP Framework (originally from EllisLab) | 18196 | 7737 |
-| 013 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  | 17356 | 2440 |
-| 014 | [WordPress/WordPress](https://github.com/WordPress/WordPress) | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. | 17135 | 12086 |
-| 015 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | A simple PHP API extension for DateTime. | 16067 | 1243 |
-| 016 | [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) | A PHP parser written in PHP | 15982 | 911 |
-| 017 | [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | 15899 | 1678 |
-| 018 | [erusev/parsedown](https://github.com/erusev/parsedown) | Better Markdown Parser in PHP | 14335 | 1094 |
-| 019 | [yiisoft/yii2](https://github.com/yiisoft/yii2) | Yii 2: The Fast, Secure and Professional PHP Framework | 14053 | 7015 |
-| 020 | [flarum/flarum](https://github.com/flarum/flarum) | Simple forum software for building great communities. | 13746 | 1467 |
-| 021 | [getgrav/grav](https://github.com/getgrav/grav) | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony | 13674 | 1374 |
-| 022 | [Intervention/image](https://github.com/Intervention/image) | PHP Image Manipulation | 13085 | 1450 |
-| 023 | [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) | 📛 An open source status page system for everyone. | 13029 | 1558 |
-| 024 | [filp/whoops](https://github.com/filp/whoops) | PHP errors for cool kids  | 12946 | 608 |
-| 025 | [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | IDE Helper for Laravel | 12928 | 1112 |
-| 026 | [thephpleague/flysystem](https://github.com/thephpleague/flysystem) | Abstraction for local and remote filesystems | 12807 | 788 |
-| 027 | [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) | Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. | 12405 | 606 |
-| 028 | [phacility/phabricator](https://github.com/phacility/phabricator) | Effective June 1, 2021: Phabricator is no longer actively maintained. | 12300 | 1683 |
-| 029 | [roots/sage](https://github.com/roots/sage) | WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow | 12061 | 3018 |
-| 030 | [ramsey/uuid](https://github.com/ramsey/uuid) | A PHP library for generating universally unique identifiers (UUIDs). | 12000 | 487 |
-| 031 | [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) | A pure PHP library for reading and writing spreadsheet files | 11968 | 2938 |
-| 032 | [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) | A tool to automatically fix PHP Coding Standards issues | 11737 | 1483 |
-| 033 | [phpstan/phpstan](https://github.com/phpstan/phpstan) | PHP Static Analysis Tool - discover bugs in your code without running it! | 11681 | 837 |
-| 034 | [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) | ARCHIVED | 11487 | 4219 |
-| 035 | [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) | :bathtub: Clean Code concepts adapted for PHP | 11400 | 2160 |
-| 036 | [the-control-group/voyager](https://github.com/the-control-group/voyager) | Voyager - The Missing Laravel Admin | 11345 | 2632 |
-| 037 | [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) | 🚀 Supercharged Excel exports and imports in Laravel | 11329 | 1811 |
-| 038 | [docker/labs](https://github.com/docker/labs) | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. | 11123 | 5362 |
-| 039 | [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) | A platform to create documentation/wiki content built with PHP & Laravel | 11033 | 1464 |
-| 040 | [spatie/laravel-permission](https://github.com/spatie/laravel-permission) | Associate users with roles and permissions | 11031 | 1668 |
-| 041 | [egulias/EmailValidator](https://github.com/egulias/EmailValidator) | PHP Email address validator | 11014 | 179 |
-| 042 | [doctrine/inflector](https://github.com/doctrine/inflector) | Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words. | 10995 | 120 |
-| 043 | [octobercms/october](https://github.com/octobercms/october) | Self-hosted CMS platform based on the Laravel PHP Framework. | 10837 | 2271 |
-| 044 | [doctrine/instantiator](https://github.com/doctrine/instantiator) |  | 10751 | 60 |
-| 045 | [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) | 🔐 JSON Web Token Authentication for Laravel & Lumen | 10748 | 1539 |
-| 046 | [z-song/laravel-admin](https://github.com/z-song/laravel-admin) | Build a full-featured administrative interface in ten minutes | 10724 | 2753 |
-| 047 | [phalcon/cphalcon](https://github.com/phalcon/cphalcon) | High performance, full-stack PHP framework delivered as a C extension. | 10674 | 1915 |
-| 048 | [magento/magento2](https://github.com/magento/magento2) | Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement. | 10501 | 9172 |
-| 049 | [mockery/mockery](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). | 10361 | 459 |
-| 050 | [walkor/workerman](https://github.com/walkor/workerman) | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.  | 10314 | 2239 |
-| 051 | [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment. | 10203 | 2698 |
-| 052 | [php-fig/log](https://github.com/php-fig/log) |  | 10118 | 173 |
-| 053 | [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. | 10033 | 1505 |
-| 054 | [w7corp/easywechat](https://github.com/w7corp/easywechat) | 📦 一个 PHP 微信 SDK | 9968 | 2429 |
-| 055 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | 9852 | 1008 |
-| 056 | [deployphp/deployer](https://github.com/deployphp/deployer) | The PHP deployment tool with support for popular frameworks out of the box | 9775 | 1453 |
-| 057 | [typecho/typecho](https://github.com/typecho/typecho) | A PHP Blogging Platform. Simple and Powerful. | 9739 | 1874 |
-| 058 | [php-fig/container](https://github.com/php-fig/container) |  | 9682 | 47 |
-| 059 | [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) | Comprehensive mailing tools for PHP | 9593 | 831 |
-| 060 | [doctrine/orm](https://github.com/doctrine/orm) | Doctrine Object Relational Mapper (ORM) | 9512 | 2457 |
-| 061 | [bobthecow/psysh](https://github.com/bobthecow/psysh) | A REPL for PHP | 9483 | 297 |
-| 062 | [dompdf/dompdf](https://github.com/dompdf/dompdf) | HTML to PDF converter for PHP | 9455 | 1723 |
-| 063 | [symfony/console](https://github.com/symfony/console) | The Console component eases the creation of beautiful and testable command line interfaces. | 9408 | 256 |
-| 064 | [dingo/api](https://github.com/dingo/api) | A RESTful API package for the Laravel and Lumen frameworks. | 9295 | 1273 |
-| 065 | [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) |  | 9179 | 108 |
-| 066 | [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) | Goutte, a simple PHP Web Scraper | 9171 | 1025 |
-| 067 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 🔗 The de facto standard self hosted URL shortener in PHP | 8996 | 1817 |
-| 068 | [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) | A PSR-5 based resolver of Class names, Types and Structural Element Names | 8986 | 46 |
-| 069 | [doctrine/dbal](https://github.com/doctrine/dbal) | Doctrine Database Abstraction Layer | 8977 | 1243 |
-| 070 | [phpDocumentor/ReflectionCommon](https://github.com/phpDocumentor/ReflectionCommon) |  | 8878 | 20 |
-| 071 | [tennc/webshell](https://github.com/tennc/webshell) | This is a webshell open source project | 8822 | 5520 |
-| 072 | [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database | 8764 | 2007 |
-| 073 | [cakephp/cakephp](https://github.com/cakephp/cakephp) | CakePHP: The Rapid Development Framework for PHP - Official Repository | 8611 | 3451 |
-| 074 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） | 8588 | 1849 |
-| 075 | [phpspec/prophecy](https://github.com/phpspec/prophecy) | Highly opinionated mocking framework for PHP 5.3+ | 8533 | 230 |
-| 076 | [reactphp/reactphp](https://github.com/reactphp/reactphp) | Event-driven, non-blocking I/O with PHP. | 8520 | 749 |
-| 077 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 8391 | 10650 |
-| 078 | [symfony/http-foundation](https://github.com/symfony/http-foundation) | The HttpFoundation component defines an object-oriented layer for the HTTP specification. | 8391 | 289 |
-| 079 | [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) | The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them. | 8271 | 70 |
-| 080 | [symfony/finder](https://github.com/symfony/finder) | The Finder component finds files and directories via an intuitive fluent interface. | 8164 | 56 |
-| 081 | [paragonie/random_compat](https://github.com/paragonie/random_compat) | PHP 5.x support for random_bytes() and random_int() | 8062 | 123 |
-| 082 | [php-fig/simple-cache](https://github.com/php-fig/simple-cache) |  | 7979 | 51 |
-| 083 | [owncloud/core](https://github.com/owncloud/core) | :cloud: ownCloud web server core (Files, DAV, etc.) | 7964 | 2077 |
-| 084 | [wallabag/wallabag](https://github.com/wallabag/wallabag) | wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. | 7949 | 693 |
-| 085 | [symfony/http-kernel](https://github.com/symfony/http-kernel) | The HttpKernel component provides a structured process for converting a Request into a Response. | 7852 | 87 |
-| 086 | [symfony/thanks](https://github.com/symfony/thanks) | Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)! | 7836 | 42 |
-| 087 | [top-think/think](https://github.com/top-think/think) | ThinkPHP Framework ——十年匠心的高性能PHP框架 | 7741 | 1645 |
-| 088 | [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) | SSPanel V3 魔改再次修改版 | 7643 | 3228 |
-| 089 | [guzzle/psr7](https://github.com/guzzle/psr7) | PSR-7 HTTP message library | 7646 | 280 |
-| 090 | [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) | This component provides a partial, native PHP implementation for the Mbstring extension. | 7610 | 37 |
-| 091 | [doctrine/cache](https://github.com/doctrine/cache) | Doctrine Cache component | 7607 | 222 |
-| 092 | [laravel/lumen](https://github.com/laravel/lumen) | The Laravel Lumen Framework. | 7593 | 1007 |
-| 093 | [snipe/snipe-it](https://github.com/snipe/snipe-it) | A free open source IT asset/license management system | 7430 | 2524 |
-| 094 | [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) | Utility class for timing | 7401 | 60 |
-| 095 | [symfony/routing](https://github.com/symfony/routing) | The Routing component maps an HTTP request to a set of configuration variables. | 7353 | 98 |
-| 096 | [guzzle/promises](https://github.com/guzzle/promises) | Promises/A+ library for PHP with synchronous support | 7349 | 114 |
-| 097 | [fideloper/TrustedProxy](https://github.com/fideloper/TrustedProxy) | Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries. | 7330 | 111 |
-| 098 | [symfony/debug](https://github.com/symfony/debug) | The Debug component provides tools to ease debugging PHP code. | 7319 | 55 |
-| 099 | [predis/predis](https://github.com/predis/predis) | A flexible and feature-complete Redis client for PHP. | 7315 | 965 |
-| 100 | [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) | Diff implementation | 7274 | 76 |
+| 001 | [elixir-lang/elixir](https://github.com/elixir-lang/elixir) | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | 21310 | 3006 |
+| 002 | [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) | Peace of mind from prototype to production | 19165 | 2595 |
+| 003 | [plausible/analytics](https://github.com/plausible/analytics) | Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 13972 | 715 |
+| 004 | [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 11757 | 1130 |
+| 005 | [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) | Cool open source projects written in various languages. | 8818 | 647 |
+| 006 | [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) | A toolkit for data mapping and language integrated query. | 5685 | 1340 |
+| 007 | [supabase/realtime](https://github.com/supabase/realtime) | Broadcast, Presence, and Postgres Changes via WebSockets | 5673 | 231 |
+| 008 | [papercups-io/papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat | 5164 | 406 |
+| 009 | [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | 5083 | 729 |
+| 010 | [rrrene/credo](https://github.com/rrrene/credo) | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | 4553 | 386 |
+| 011 | [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | A community driven style guide for Elixir | 4138 | 300 |
+| 012 | [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) | The GraphQL toolkit for Elixir | 4083 | 497 |
+| 013 | [firezone/firezone](https://github.com/firezone/firezone) | WireGuard®-based VPN server and firewall | 3737 | 161 |
+| 014 | [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) | A self-hosted data logger for your Tesla  🚘 | 3592 | 501 |
+| 015 | [livebook-dev/livebook](https://github.com/livebook-dev/livebook) | Automate code & data workflows with interactive Elixir notebooks | 3334 | 292 |
+| 016 | [ueberauth/guardian](https://github.com/ueberauth/guardian) | Elixir Authentication | 3286 | 372 |
+| 017 | [seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) | A walk through the Elixir language in 30 exercises. | 2962 | 422 |
+| 018 | [bitwalker/distillery](https://github.com/bitwalker/distillery) | Simplify deployments in Elixir with OTP releases! | 2919 | 387 |
+| 019 | [elixir-plug/plug](https://github.com/elixir-plug/plug) | Compose web applications with functions | 2620 | 562 |
+| 020 | [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) | Web application that indexes all popular torrent sites, and saves it to the local database. | 2612 | 175 |
+| 021 | [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) | Changelog is news and podcast for developers. This is our open source platform. | 2511 | 235 |
+| 022 | [sorentwo/oban](https://github.com/sorentwo/oban) | 💎 Robust job processing in Elixir, backed by modern PostgreSQL or SQLite3 | 2506 | 245 |
+| 023 | [blockscout/blockscout](https://github.com/blockscout/blockscout) | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 2283 | 1426 |
+| 024 | [edgurgel/httpoison](https://github.com/edgurgel/httpoison) | Yet Another HTTP client for Elixir powered by hackney | 2122 | 348 |
+| 025 | [elixir-nx/nx](https://github.com/elixir-nx/nx) | Multi-dimensional arrays (tensors) and numerical definitions for Elixir | 2089 | 150 |
+| 026 | [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) | :watch: Cron-like job scheduler for Elixir | 2080 | 143 |
+| 027 | [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) | Web app for hosting asciicasts | 2036 | 246 |
+| 028 | [dashbitco/broadway](https://github.com/dashbitco/broadway) | Concurrent and multi-stage data ingestion and data processing with Elixir | 2028 | 137 |
+| 029 | [nerves-project/nerves](https://github.com/nerves-project/nerves) | Craft and deploy bulletproof embedded software in Elixir | 1982 | 165 |
+| 030 | [devinus/poison](https://github.com/devinus/poison) | An incredibly fast, pure Elixir JSON library | 1960 | 217 |
+| 031 | [elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans) | Elixir learning exercises | 1942 | 540 |
+| 032 | [thoughtbot/bamboo](https://github.com/thoughtbot/bamboo) | Testable, composable, and adapter based Elixir email library for devs that love piping. | 1841 | 325 |
+| 033 | [philss/floki](https://github.com/philss/floki) | Floki is a simple HTML parser that enables search for nodes using CSS selectors. | 1828 | 134 |
+| 034 | [ScenicFramework/scenic](https://github.com/ScenicFramework/scenic) | Core Scenic library | 1822 | 132 |
+| 035 | [surface-ui/surface](https://github.com/surface-ui/surface) | A server-side rendering component library for Phoenix | 1817 | 124 |
+| 036 | [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) | Realtime dashboard with metrics, request logging, plus storage, OS and VM insights | 1804 | 167 |
+| 037 | [thoughtbot/ex_machina](https://github.com/thoughtbot/ex_machina) | Create test data for Elixir applications | 1803 | 140 |
+| 038 | [elixir-tesla/tesla](https://github.com/elixir-tesla/tesla) | The flexible HTTP client library for Elixir, with support for middleware and multiple adapters. | 1790 | 297 |
+| 039 | [bitwalker/libcluster](https://github.com/bitwalker/libcluster) | Automatic cluster formation/healing for Elixir applications | 1693 | 175 |
+| 040 | [commanded/commanded](https://github.com/commanded/commanded) | Use Commanded to build Elixir CQRS/ES applications | 1662 | 228 |
+| 041 | [bitwalker/timex](https://github.com/bitwalker/timex) | A complete date/time library for Elixir projects. | 1653 | 354 |
+| 042 | [discord/manifold](https://github.com/discord/manifold) | Fast batch message passing between nodes for Erlang/Elixir. | 1546 | 59 |
+| 043 | [elixirscript/elixirscript](https://github.com/elixirscript/elixirscript) | Converts Elixir to JavaScript | 1542 | 68 |
+| 044 | [beam-community/elixir-companies](https://github.com/beam-community/elixir-companies) | A list of companies currently using Elixir in production. | 1529 | 353 |
+| 045 | [jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir) | Mix tasks to simplify use of Dialyzer in Elixir projects. | 1512 | 125 |
+| 046 | [dwyl/learn-elixir](https://github.com/dwyl/learn-elixir) | :droplet: Learn the Elixir programming language to build functional, fast, scalable and maintainable web applications! | 1488 | 103 |
+| 047 | [discord/sorted_set_nif](https://github.com/discord/sorted_set_nif) | Elixir SortedSet backed by a Rust-based NIF | 1488 | 92 |
+| 048 | [ueberauth/ueberauth](https://github.com/ueberauth/ueberauth) | An Elixir Authentication System for Plug-based Web Applications | 1462 | 110 |
+| 049 | [pow-auth/pow](https://github.com/pow-auth/pow) | Robust, modular, and extendable user authentication system | 1449 | 140 |
+| 050 | [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) | Concurrent browser tests for your Elixir web apps. | 1443 | 172 |
+| 051 | [michalmuskala/jason](https://github.com/michalmuskala/jason) | A blazing fast JSON parser and generator in pure Elixir. | 1422 | 151 |
+| 052 | [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) | 👁 A merge bot for GitHub Pull Requests | 1416 | 174 |
+| 053 | [nccgroup/sobelow](https://github.com/nccgroup/sobelow) | Security-focused static analysis for the Phoenix Framework | 1413 | 85 |
+| 054 | [akira/exq](https://github.com/akira/exq) | Job processing library for Elixir  - compatible with Resque / Sidekiq | 1407 | 176 |
+| 055 | [dashbitco/flow](https://github.com/dashbitco/flow) | Computational parallel flows on top of GenStage | 1368 | 81 |
+| 056 | [elixir-lang/gen_stage](https://github.com/elixir-lang/gen_stage) | Producer and consumer actors with back-pressure for Elixir | 1346 | 187 |
+| 057 | [HashNuke/hound](https://github.com/HashNuke/hound) | Elixir library for writing integration tests and browser automation | 1321 | 144 |
+| 058 | [elixir-maru/maru](https://github.com/elixir-maru/maru) | Elixir RESTful Framework  | 1313 | 80 |
+| 059 | [whitfin/cachex](https://github.com/whitfin/cachex) | A powerful caching library for Elixir with support for transactions, fallbacks and expirations | 1306 | 83 |
+| 060 | [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) | ExDoc produces HTML and EPUB documentation for Elixir projects | 1276 | 277 |
+| 061 | [swoosh/swoosh](https://github.com/swoosh/swoosh) | Compose, deliver and test your emails easily in Elixir | 1259 | 175 |
+| 062 | [riverrun/comeonin](https://github.com/riverrun/comeonin) | Password hashing specification for the Elixir programming language | 1245 | 64 |
+| 063 | [bencheeorg/benchee](https://github.com/bencheeorg/benchee) | Easy and extensible benchmarking in Elixir providing you with lots of statistics! | 1243 | 53 |
+| 064 | [smpallen99/coherence](https://github.com/smpallen99/coherence) | Coherence is a full featured, configurable authentication system for Phoenix | 1232 | 227 |
+| 065 | [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) | Catalog of Elixir-specific code smells | 1217 | 38 |
+| 066 | [elixir-mint/mint](https://github.com/elixir-mint/mint) | Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 🌱 | 1208 | 86 |
+| 067 | [elixir-grpc/grpc](https://github.com/elixir-grpc/grpc) | An Elixir implementation of gRPC | 1200 | 183 |
+| 068 | [elixir-nx/axon](https://github.com/elixir-nx/axon) | Nx-powered Neural Networks | 1199 | 75 |
+| 069 | [smpallen99/ex_admin](https://github.com/smpallen99/ex_admin) | ExAdmin is an auto administration package for Elixir and the Phoenix Framework | 1188 | 276 |
+| 070 | [ex-aws/ex_aws](https://github.com/ex-aws/ex_aws) | A flexible, easy to use set of clients AWS APIs for Elixir | 1187 | 484 |
+| 071 | [devonestes/fast-elixir](https://github.com/devonestes/fast-elixir) | :dash: Writing Fast Elixir :heart_eyes: -- Collect Common Elixir idioms. | 1177 | 36 |
+| 072 | [dashbitco/mox](https://github.com/dashbitco/mox) | Mocks and explicit contracts in Elixir | 1166 | 69 |
+| 073 | [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) | Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView | 1149 | 33 |
+| 074 | [stavro/arc](https://github.com/stavro/arc) | :paperclip: Flexible file upload and attachment library for Elixir | 1139 | 210 |
+| 075 | [witchcrafters/witchcraft](https://github.com/witchcrafters/witchcraft) | Monads and other dark magic for Elixir | 1138 | 57 |
+| 076 | [bitwalker/swarm](https://github.com/bitwalker/swarm) | Easy clustering, registration, and distribution of worker processes for Erlang/Elixir | 1128 | 103 |
+| 077 | [derekkraan/horde](https://github.com/derekkraan/horde) | Horde is a distributed Supervisor and Registry backed by DeltaCrdt | 1126 | 92 |
+| 078 | [dynamo/dynamo](https://github.com/dynamo/dynamo) | Run, Dynamo, Run! | 1103 | 153 |
+| 079 | [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" | 1093 | 149 |
+| 080 | [discord/fastglobal](https://github.com/discord/fastglobal) | Fast no copy globals for Elixir & Erlang. | 1046 | 63 |
+| 081 | [sneako/finch](https://github.com/sneako/finch) | Elixir HTTP client, focused on performance | 1015 | 83 |
+| 082 | [cabol/nebulex](https://github.com/cabol/nebulex) | In-memory and distributed caching toolkit for Elixir. | 1010 | 56 |
+| 083 | [edgurgel/poxa](https://github.com/edgurgel/poxa) | Pusher server implementation compatible with Pusher client libraries. | 991 | 93 |
+| 084 | [whatyouhide/redix](https://github.com/whatyouhide/redix) | Fast, pipelined, resilient Redis driver for Elixir. 🛍 | 990 | 115 |
+| 085 | [StephenGrider/ElixirCode](https://github.com/StephenGrider/ElixirCode) | Reference Repo for an Elixir course on Udemy.com | 989 | 323 |
+| 086 | [elixir-ecto/postgrex](https://github.com/elixir-ecto/postgrex) | PostgreSQL driver for Elixir | 980 | 262 |
+| 087 | [hexpm/hexpm](https://github.com/hexpm/hexpm) | API server and website for Hex | 968 | 278 |
+| 088 | [firestormforum/firestorm](https://github.com/firestormforum/firestorm) | An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. | 965 | 92 |
+| 089 | [FarmBot/farmbot_os](https://github.com/FarmBot/farmbot_os) | The operating system and all related software that runs on FarmBot's Raspberry Pi. | 953 | 253 |
+| 090 | [kittoframework/kitto](https://github.com/kittoframework/kitto) | Kitto is a framework for interactive dashboards written in Elixir | 949 | 59 |
+| 091 | [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) | The core of the Membrane Framework, advanced multimedia processing framework | 946 | 21 |
+| 092 | [mirego/elixir-boilerplate](https://github.com/mirego/elixir-boilerplate) | ⚗ The stable base upon which we build our Elixir projects at Mirego. | 933 | 69 |
+| 093 | [commanded/eventstore](https://github.com/commanded/eventstore) | Event store using PostgreSQL for persistence | 927 | 132 |
+| 094 | [bitwalker/exrm](https://github.com/bitwalker/exrm) | Automatically generate a release for your Elixir project! | 925 | 118 |
+| 095 | [shinyscorpion/wobserver](https://github.com/shinyscorpion/wobserver) | Web based metrics, monitoring, and observer | 924 | 79 |
+| 096 | [operable/cog](https://github.com/operable/cog) | Bringing the power of the command line to chat | 921 | 74 |
+| 097 | [elixirs/faker](https://github.com/elixirs/faker) | Faker is a pure Elixir library for generating fake data. | 919 | 205 |
+| 098 | [mirego/accent](https://github.com/mirego/accent) | The first developer-oriented translation tool. True asynchronous flow between translators and your team. | 918 | 76 |
+| 099 | [mojotech/torch](https://github.com/mojotech/torch) | A rapid admin generator for Elixir & Phoenix | 905 | 69 |
+| 100 | [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) | 🔥Midarr, the minimal lightweight media server. | 904 | 21 |
 
 
-Last update : 23/02/2023 13:46
+Last update : 24/02/2023 05:40
 
 
 
