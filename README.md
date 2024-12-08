@@ -4,29 +4,29 @@ This is an automated list of the ELIXIR projects here on Github with the most st
 
 | # | Repository | Description | Stars | Forks |
 |---|------------|-------------|-------|-------|
-| 001 | [elixir-lang/elixir](https://github.com/elixir-lang/elixir) | Elixir is a dynamic, functional language for building scalable and maintainable applications | 24628 | 3383 |
-| 002 | [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) | Peace of mind from prototype to production | 21504 | 2884 |
-| 003 | [plausible/analytics](https://github.com/plausible/analytics) | Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 20782 | 1099 |
-| 004 | [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 12702 | 1177 |
-| 005 | [firezone/firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. | 6890 | 287 |
+| 001 | [elixir-lang/elixir](https://github.com/elixir-lang/elixir) | Elixir is a dynamic, functional language for building scalable and maintainable applications | 24631 | 3384 |
+| 002 | [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) | Peace of mind from prototype to production | 21507 | 2885 |
+| 003 | [plausible/analytics](https://github.com/plausible/analytics) | Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 20786 | 1099 |
+| 004 | [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 12703 | 1177 |
+| 005 | [firezone/firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. | 6890 | 285 |
 | 006 | [supabase/realtime](https://github.com/supabase/realtime) | Broadcast, Presence, and Postgres Changes via WebSockets | 6842 | 316 |
-| 007 | [electric-sql/electric](https://github.com/electric-sql/electric) | Sync little subsets of your Postgres data into local apps and services. | 6542 | 157 |
-| 008 | [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | 6278 | 937 |
-| 009 | [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) | A toolkit for data mapping and language integrated query. | 6206 | 1436 |
-| 010 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | A self-hosted data logger for your Tesla  🚘 | 6090 | 758 |
+| 007 | [electric-sql/electric](https://github.com/electric-sql/electric) | Sync little subsets of your Postgres data into local apps and services. | 6548 | 157 |
+| 008 | [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | 6281 | 937 |
+| 009 | [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) | A toolkit for data mapping and language integrated query. | 6207 | 1436 |
+| 010 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | A self-hosted data logger for your Tesla  🚘 | 6091 | 758 |
 | 011 | [papercups-io/papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat | 5770 | 526 |
-| 012 | [livebook-dev/livebook](https://github.com/livebook-dev/livebook) | Automate code & data workflows with interactive Elixir notebooks | 5017 | 429 |
+| 012 | [livebook-dev/livebook](https://github.com/livebook-dev/livebook) | Automate code & data workflows with interactive Elixir notebooks | 5021 | 431 |
 | 013 | [rrrene/credo](https://github.com/rrrene/credo) | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | 4942 | 419 |
 | 014 | [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | A community driven style guide for Elixir | 4372 | 298 |
-| 015 | [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) | The GraphQL toolkit for Elixir | 4297 | 527 |
-| 016 | [blockscout/blockscout](https://github.com/blockscout/blockscout) | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 3665 | 2455 |
+| 015 | [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) | The GraphQL toolkit for Elixir | 4297 | 528 |
+| 016 | [blockscout/blockscout](https://github.com/blockscout/blockscout) | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  | 3666 | 2456 |
 | 017 | [ueberauth/guardian](https://github.com/ueberauth/guardian) | Elixir Authentication | 3448 | 381 |
 | 018 | [oban-bg/oban](https://github.com/oban-bg/oban) | 💎 Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3 | 3381 | 314 |
 | 019 | [seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) | A walk through the Elixir language in 30 exercises. | 3036 | 431 |
 | 020 | [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) | Web application that indexes all popular torrent sites, and saves it to the local database. | 3005 | 189 |
 | 021 | [bitwalker/distillery](https://github.com/bitwalker/distillery) | Simplify deployments in Elixir with OTP releases! | 2966 | 397 |
 | 022 | [elixir-plug/plug](https://github.com/elixir-plug/plug) | Compose web applications with functions | 2876 | 587 |
-| 023 | [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) | Changelog makes world-class developer pods. This is our open source platform. | 2717 | 246 |
+| 023 | [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) | Changelog makes world-class developer pods. This is our open source platform. | 2718 | 246 |
 | 024 | [elixir-nx/nx](https://github.com/elixir-nx/nx) | Multi-dimensional arrays (tensors) and numerical definitions for Elixir | 2670 | 197 |
 | 025 | [dashbitco/broadway](https://github.com/dashbitco/broadway) | Concurrent and multi-stage data ingestion and data processing with Elixir | 2441 | 161 |
 | 026 | [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) | :watch: Cron-like job scheduler for Elixir | 2331 | 148 |
@@ -60,8 +60,8 @@ This is an automated list of the ELIXIR projects here on Github with the most st
 | 054 | [whitfin/cachex](https://github.com/whitfin/cachex) | A powerful caching library for Elixir with support for transactions, fallbacks and expirations | 1611 | 106 |
 | 055 | [discord/sorted_set_nif](https://github.com/discord/sorted_set_nif) | Elixir SortedSet backed by a Rust-based NIF | 1610 | 94 |
 | 056 | [elixirscript/elixirscript](https://github.com/elixirscript/elixirscript) | Converts Elixir to JavaScript | 1562 | 67 |
-| 057 | [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) | Building native-like Elixir apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView! | 1559 | 51 |
-| 058 | [elixir-nx/axon](https://github.com/elixir-nx/axon) | Nx-powered Neural Networks | 1557 | 104 |
+| 057 | [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) | Building native-like Elixir apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView! | 1560 | 51 |
+| 058 | [elixir-nx/axon](https://github.com/elixir-nx/axon) | Nx-powered Neural Networks | 1557 | 105 |
 | 059 | [dashbitco/flow](https://github.com/dashbitco/flow) | Computational parallel flows on top of GenStage | 1556 | 89 |
 | 060 | [elixir-lang/gen_stage](https://github.com/elixir-lang/gen_stage) | Producer and consumer actors with back-pressure for Elixir | 1522 | 192 |
 | 061 | [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) | 👁 A merge bot for GitHub Pull Requests | 1518 | 180 |
@@ -69,22 +69,22 @@ This is an automated list of the ELIXIR projects here on Github with the most st
 | 063 | [akira/exq](https://github.com/akira/exq) | Job processing library for Elixir  - compatible with Resque / Sidekiq | 1507 | 182 |
 | 064 | [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) | ExDoc produces HTML and EPUB documentation for Elixir projects | 1479 | 330 |
 | 065 | [swoosh/swoosh](https://github.com/swoosh/swoosh) | Compose, deliver and test your emails easily in Elixir | 1475 | 221 |
-| 066 | [pentacent/keila](https://github.com/pentacent/keila) | Open Source Newsletter Tool. | 1467 | 81 |
+| 066 | [pentacent/keila](https://github.com/pentacent/keila) | Open Source Newsletter Tool. | 1468 | 81 |
 | 067 | [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) | Catalog of Elixir-specific code smells | 1467 | 48 |
-| 068 | [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) | Your next YouTube media manager | 1442 | 25 |
+| 068 | [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) | Your next YouTube media manager | 1446 | 25 |
 | 069 | [bencheeorg/benchee](https://github.com/bencheeorg/benchee) | Easy and extensible benchmarking in Elixir providing you with lots of statistics! | 1416 | 66 |
 | 070 | [elixir-grpc/grpc](https://github.com/elixir-grpc/grpc) | An Elixir implementation of gRPC | 1403 | 213 |
-| 071 | [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) | Pre-trained Neural Network models in Axon (+ 🤗 Models integration) | 1384 | 103 |
+| 071 | [elixir-nx/bumblebee](https://github.com/elixir-nx/bumblebee) | Pre-trained Neural Network models in Axon (+ 🤗 Models integration) | 1384 | 104 |
 | 072 | [elixir-mint/mint](https://github.com/elixir-mint/mint) | Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 🌱 | 1374 | 112 |
-| 073 | [HashNuke/hound](https://github.com/HashNuke/hound) | Elixir library for writing integration tests and browser automation | 1363 | 145 |
+| 073 | [HashNuke/hound](https://github.com/HashNuke/hound) | Elixir library for writing integration tests and browser automation | 1364 | 145 |
 | 074 | [aesmail/kaffy](https://github.com/aesmail/kaffy) | Powerfully simple admin package for phoenix applications | 1349 | 158 |
 | 075 | [dashbitco/mox](https://github.com/dashbitco/mox) | Mocks and explicit contracts in Elixir | 1347 | 77 |
 | 076 | [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) | The Standard Webhooks specification | 1342 | 34 |
 | 077 | [derekkraan/horde](https://github.com/derekkraan/horde) | Horde is a distributed Supervisor and Registry backed by DeltaCrdt | 1323 | 106 |
-| 078 | [elixir-maru/maru](https://github.com/elixir-maru/maru) | Elixir RESTful Framework  | 1322 | 85 |
-| 079 | [zoonk/zoonk](https://github.com/zoonk/zoonk) | Platform for creating interactive courses. | 1321 | 78 |
-| 080 | [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) | The core of the Membrane Framework, multimedia processing framework written in Elixir | 1314 | 39 |
-| 081 | [mirego/accent](https://github.com/mirego/accent) | The first developer-oriented translation tool. True asynchronous flow between translators and your team. | 1308 | 99 |
+| 078 | [zoonk/zoonk](https://github.com/zoonk/zoonk) | Platform for creating interactive courses. | 1322 | 78 |
+| 079 | [elixir-maru/maru](https://github.com/elixir-maru/maru) | Elixir RESTful Framework  | 1322 | 85 |
+| 080 | [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) | The core of the Membrane Framework, multimedia processing framework written in Elixir | 1315 | 39 |
+| 081 | [mirego/accent](https://github.com/mirego/accent) | The first developer-oriented translation tool. True asynchronous flow between translators and your team. | 1309 | 100 |
 | 082 | [woutdp/live_svelte](https://github.com/woutdp/live_svelte) | Svelte inside Phoenix LiveView with seamless end-to-end reactivity | 1308 | 53 |
 | 083 | [riverrun/comeonin](https://github.com/riverrun/comeonin) | Password hashing specification for the Elixir programming language | 1299 | 66 |
 | 084 | [fly-apps/live_beats](https://github.com/fly-apps/live_beats) |  | 1297 | 165 |
@@ -106,7 +106,7 @@ This is an automated list of the ELIXIR projects here on Github with the most st
 | 100 | [StephenGrider/ElixirCode](https://github.com/StephenGrider/ElixirCode) | Reference Repo for an Elixir course on Udemy.com | 1113 | 358 |
 
 
-Last update : 07/12/2024 13:43
+Last update : 08/12/2024 13:43
 
 
 
